@@ -1,9 +1,9 @@
 
-## Listing down the WIP that may be taken up in future
+## Listing down the threads that are wip or to be taken up in future
 
 - Date C. - `06th Apr 2018`
 - Date M. - `06th Apr 2018`
-- Purpose - `Keep a track of WIP threads`
+- Purpose - `Keep a track of threads that are wip or to be taken up`
 - Updates - 
 
 ### Web scraping
