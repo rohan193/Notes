@@ -5,6 +5,7 @@
 - Date M. - `06th Apr 2018`
 - Purpose - `Keep a track of threads that are wip or to be taken up`
 - Updates - 
+  - 06th Apr : Added web scraping
 
 ### Web scraping
 
