@@ -28,3 +28,9 @@
   - Parameterize the code for any script
   - Get a view on the code run time and methods to improve the same
   - Fix on the frontend layout
+
+- Read ups:
+  - [Nifty P/E ratios](https://nifty-pe-ratio.com/)
+  - [What are the best mutual funds to buy?](https://www.quora.com/What-are-the-five-best-mutual-funds-in-2018)
+  - [Must have metrics for Value investors](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
+  - [Zerodha Varsity](https://zerodha.com/varsity/)
