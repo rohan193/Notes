@@ -2,7 +2,8 @@
 ## Listing down the threads that are wip or to be taken up in future
 
 1. [Webscraping](#web-scraping)
-2. [Mutual funds](mutual-funds)
+    1. [Phase 1](#phase-1)
+2. [Mutual funds](#mutual-funds)
 
 # Web scraping
 
