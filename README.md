@@ -8,11 +8,12 @@
 # Web scraping
 
 - Date C. - `06th Apr 2018`
-- Date M. - `15th Apr 2018`
+- Date M. - `16th Apr 2018`
 - Purpose - `Keep a track of threads that are wip or to be taken up`
 - Updates - 
   - `06th Apr : Added web scraping`
   - `07th Apr : Updated details for webscraping`
+  - `16th Apr : Went through sentdex tutorials, updated read-ups`
 
 - Objective - Build a framework that can help shortlist sripts good for investment in the upcoming quarter. This framework will filter the amount of scripts that will be fed into the algorithmic trading
 
@@ -38,6 +39,7 @@
   - [What are the best mutual funds to buy?](https://www.quora.com/What-are-the-five-best-mutual-funds-in-2018)
   - [Must have metrics for Value investors](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
   - [Zerodha Varsity](https://zerodha.com/varsity/)
+  - Sentdex PyQt4 tutorials
 
 # Mutual funds
 
