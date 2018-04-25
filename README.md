@@ -4,6 +4,7 @@
 1. [Webscraping](#web-scraping)
     1. [Phase 1](#phase-1)
 2. [Mutual funds](#mutual-funds)
+3. [Intelligent character recognition](#intelligent-character-recognition)
 
 # Web scraping
 
@@ -49,3 +50,9 @@
  - [5 Must-Have Metrics for Value Investors](https://www.investopedia.com/articles/fundamental-analysis/09/five-must-have-metrics-value-investors.asp)
  - [Fundamental analysis](https://zerodha.com/varsity/)
  - Some 5 stage cycle that I am unable to recollect
+
+
+# Intelligent character recognition
+
+- App for converting handwritten text into a text file etc.
+    - Take input from mobile phone camera
