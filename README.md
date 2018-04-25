@@ -5,6 +5,7 @@
     1. [Phase 1](#phase-1)
 2. [Mutual funds](#mutual-funds)
 3. [Intelligent character recognition](#intelligent-character-recognition)
+4. Chatbot
 
 # Web scraping
 
@@ -56,3 +57,6 @@
 
 - App for converting handwritten text into a text file etc.
     - Take input from mobile phone camera
+
+# Chatbot
+- Data collection : Chat, Movie/ Anime scripts eg. Bakemonogatari Senjougahara Hitagi
