@@ -12,7 +12,10 @@
   - `Premier Platinum	75,000 PQM or 90 PQS (and $9,000)`
   - `Premier 1K®	100,000 PQM or 120 PQS (and 12,000)`
   
-  **PQM, PQS and PQD**
+- **PQM, PQS and PQD**
+  - Premium qualifying miles are based on the number of miles that a custoemer has flow and the MileagePlus status
+  - Premium qualifying segments are the total segments that a customer has flow
+  - Premium qualifying dollars is the spend that a customer has done with United or any other partner airlines
   
 - **Earning miles on United flights**
   - **MileagePlus award miles** : Every time you purchase an eligible fare and travel on flights operated by United or United Express®, you earn award miles that are deposited into your MileagePlus account. How you earn award miles depends on the type of ticket purchased, ticketing airline and operating airline
