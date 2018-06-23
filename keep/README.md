@@ -66,6 +66,7 @@
     -  https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
     -  https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection?utm_medium=email&utm_source=intercom&utm_campaign=talkingdata+competition+2018
     -  Recommendation engine - YouTube, Netflix
+    - [TrackML Particle Tracking Challenge](https://twitter.com/demishassabis/status/1001837279877517312?s=19)
 -  MachineHack
     -  Explore MachineHack(https://www.machinehack.com)
 
@@ -82,6 +83,7 @@
   - Mutual fund for Beginners India in hindi 2018 - How to Select Best Mutual fund - https://youtu.be/RJdxuaR4cKU
   
 ### Plan for the trading startup
+- [Business Opportunities in India: Investment Ideas, Industry Research, Reports | IBEF](https://www.ibef.org/#)
 -  Read up on stocks that faced the highest loss in 2018 - ones with [lowest P/E ratio](https://www.moneycontrol.com/news/business/markets/top-20-stocks-which-fell-up-to-60-in-just-3-months-do-you-own-any-2550293.html/amp) in general
 -  [Refer github page](https://github.com/rohan193/Trading) for more details
 -  Read through streak
@@ -115,6 +117,7 @@
 -  Cryptocurrency - Coins, Tokens and IPOs
 -  Cryptocurrency trading - ICO, buy-hold-sell analysis 
 -  Koinex, Binance authentication
+- [Reliance Jio begins hiring AI team under Akash Ambani](https://inshorts.com/en/news/reliance-jio-begins-hiring-ai-team-under-akash-ambani-1528106596388?utm_source=news_share&forward_to_store=true)
 
 ### Read books
 -  All the light we cannot see
@@ -141,3 +144,13 @@
 - Companies employing Machine Learning and Robotics - https://www.bostondynamics.com
 
 ### Unclassified
+
+- Check notes in Whatsapp keep
+
+### Read up
+
+- [Hyperparameter Optimization with Keras]https://medium.com/@d0b5754da8c3/b82e6364ca53
+- 
+
+### Wip/ Completed
+
