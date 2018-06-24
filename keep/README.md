@@ -17,6 +17,7 @@
 - [Read books](#read-books)
 - [Language](#language)
 - [Robotics](#robotics)
+- [Video editing](#video-editing)
 
 ### Flat research
 - No brokers leads
@@ -91,6 +92,7 @@
 -  Go through the varsity fundamental analysis section
 -  Explore smallcase - https://www.smallcase.com/
 -  Explore Quantopian - https://www.quantopian.com
+- Create youtube videos to review shares - refer IBEF. Simply Wall Street, screener, moneycontrol
 
 ### Statistics
 -  Islr, Eslr, Onlinestatsbook
@@ -142,6 +144,9 @@
 
 ### Robotics
 - Companies employing Machine Learning and Robotics - https://www.bostondynamics.com
+
+### Video editing
+- Learn how to use Adobe Premiere Pro
 
 ### Unclassified
 
