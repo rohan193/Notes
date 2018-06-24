@@ -57,6 +57,8 @@
 -  HackerEarth
     -  Caavo Computer Vision Challenge
     -  Deep learning #3
+    - [ZS Data Science Challenge - 2018](https://www.hackerearth.com/challenge/competitive/zs-data-science-challenge-2018/)
+    - [Deep Learning - Beginner Challenge | Identify the Animal](https://www.hackerearth.com/challenge/competitive/deep-learning-beginner-challenge/)
 -  AnalyticsVidhya
     -  ABInBev - hackathon
         -  General linear modelling
