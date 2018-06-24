@@ -63,6 +63,7 @@
     -  ABInBev - hackathon
         -  General linear modelling
         -  Linear mix modelling
+    - [Mckinsey Analytics Online Hackathon](https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-4/)
 -  Kaggle
     -  Deep learning problem - Digit recognizer, Diabetic retinopathy (https://www.kaggle.com/c/diabetic-retinopathy-detection)
     -  Pick a new dataset
