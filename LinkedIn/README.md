@@ -5,13 +5,40 @@
 ## LEAF project
 
 ## Chase analysis
+
+- Identifying target audience for Credit campaigns
+
+	- For a leading US airline, identified the drivers that would make a customer purchase a Credit Card offered by a partner Bank while also calculating the propensity of a customer to purchase the card
+	- The airline offered multiple membership programs and wished to increase the share of customers who sign up for and use the credit cards from the partner Bank
+	- The analysis was performed across 3 major verticals of Aqusition, Retenion and Lifetime Value. Pre-post analysis on the purchase patterns was performed for customers purchasing the card
+	- The results from the analysis will help provide target audience that would have high likelihood to retain the use of the cards and thus generate higher value in long term
+
 ## Video Analytics
 
-## Google Pixel
+- Reducing the turn time delay for leading US airline using Computer Vision
+
+	- Worked on a proposal to help a leading US airline reduce the delay in plan turn around time caused due to baggage handling by applying Computer Vision
+	- A set of latest object detection and tracking algorithms were trained to accurately identify and count the baggages being sent into an airplane and create timely alert when cabin space is full
+	- The setup would not only help streamline and automate the baggage loading process but when scaled also provide critical data on drivers of turn time delay
+
 ## Berlin store closure
+
+## Google Pixel
+
+- Target audience for newly launched smartphone
+	- Helped a leading telecommunication reltailer identify the audience likely to purchase a smartphone newly launched in market and also the channels that can be used to target them
+	- The analysis focussed on identifying the drivers that will make customer purchase this smartphone. A gradient boost model was created to assign each customer propensity score based on thier likelihood to purchase
+	- The model gave ~4x lift in the traditional CRM campaigns that worked across multiple channels like email, website, organic search
+	- The output from the model was a target audience and the channels that can be used to target them
+
 ## CPW Propensity Modelling
 ## CPW Retention Analysis
 ## CPW Retention dashboard
+
+- Driver analysis and propensity modelling for customer churn
+	- Helped a leading telecommunication retailer identify the drivers of customer churn and identify the customer segments at risk of being churned
+	- The analysis focussed on identifying the levers of churn and churn propensity using extreme gradient bossting based classification models. The right time for targeting customers was also identified. This helped in updating the design of CRM campaigns traditionally used in the business
+	- The analysis was used to identify target segments for CRM campaigns based on customer demographics, purchase patterns and churn propensity
 
 ## Peak period analysis
 
@@ -38,6 +65,8 @@
 	- The end results were used to design better quality vouchers that were offered on the right set of products
 
 ## OLS Analysis
+
+- Identifying the market addressed by the brand ---refer the deck
 
 ## BNPL
 
