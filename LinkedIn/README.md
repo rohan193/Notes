@@ -59,14 +59,17 @@
 ## Voucher code analysis
 
 - Incrementality in sales via voucher codes
-	- Help setup a procedure to assess the incrementality in sales driven by offering of voucher codes for one of UK's top electronics retailer
+	- Assessed the incrementality in sales driven by offering of voucher codes for one of UK's top electronics retailer
 	- The project also focussed on understanding the areas where offering vouchers drove  higher sales while not taking huge hit on margin
-	- Optimum level of discounts were calculated across multiple product categories to drive sales while generating healthy margins
+	- Optimum level of discounts were calculated across multiple product categories to drive sales while taking minimal hit on margins
 	- The end results were used to design better quality vouchers that were offered on the right set of products
 
 ## OLS Analysis
 
-- Identifying the market addressed by the brand ---refer the deck
+- Creating growth strategy for online telecom retailer
+	- For an online telecom retailer, identified the go-to-market strategy and assessed market overlap across different channels
+	- Identified the target customer base in terms of demographics, purchase behavior and affiliate channels that will have incremental sales for the telecom retailer across each channel
+	- The results from the analysis were used to update the current CRM processes with focus being more on retaining customers that show higher affinity towards the brand along with profile based customer acquisition campaigns
 
 ## BNPL
 
