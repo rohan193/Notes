@@ -1,11 +1,12 @@
 
-## Listing down the threads that are wip or to be taken up in future
+# Pet projects
 
 1. [Webscraping](#web-scraping)
     1. [Phase 1](#phase-1)
 2. [Mutual funds](#mutual-funds)
 3. [Intelligent character recognition](#intelligent-character-recognition)
-4. Chatbot
+4. [Chatbot](#chatbot)
+5. [Game bots](#game-bots)
 
 # Web scraping
 
@@ -60,3 +61,9 @@
 
 # Chatbot
 - Data collection : Chat, Movie/ Anime scripts eg. Bakemonogatari Senjougahara Hitagi
+
+# Game bots
+
+- Halite
+- Starcraft II
+- Asteroids
