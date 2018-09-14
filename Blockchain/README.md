@@ -13,3 +13,6 @@ High requirement and low supply of people with adequate skillsets
   - Siraj Raval
     - [Youtube](https://www.youtube.com/results?search_query=Siraj+Raval+Blockchain)
     - [Github](https://github.com/rohan193/Learn_Blockchain_in_2_months)
+  - Coursera
+    - [Blockchain Specialization](https://www.coursera.org/specializations/blockchain)
+  - [LeewayHertz](https://www.leewayhertz.com/)
