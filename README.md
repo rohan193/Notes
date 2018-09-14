@@ -4,6 +4,7 @@
 1. [Intelligent character recognition](#intelligent-character-recognition)
 2. [Chatbot](#chatbot)
 3. [Game bots](#game-bots)
+4. [Personal website](#personal-website)
 
 # Intelligent character recognition
 
@@ -18,3 +19,7 @@
 - Halite
 - Starcraft II
 - Asteroids
+
+# Personal website
+
+- [Github pages](https://github.com/collections/github-pages-examples)
