@@ -7,6 +7,7 @@ High requirement and low supply of people with adequate skillsets
     - [Youtube](https://www.youtube.com/results?search_query=hyperledger+fabric+tutorial)
     - [Home page](https://www.hyperledger.org/)
   - Solidity
+    - [Youtube](https://www.youtube.com/results?search_query=solidity+tutorial)
   
 # References
   - Siraj Raval
