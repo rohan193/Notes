@@ -1,4 +1,3 @@
-
 # Index
 - [Applied/to be applied companies](#list-of-active-threads)
 - [Statistics](#statistics)
@@ -6,6 +5,7 @@
 - [Templates to send replies on LinkedIn/Naukri](#templates-to-send-replies)
 - [Interview experiences](#interview-exp)
 - [List of companies](#list-of-companies)
+- [List of PoCs](#list-of-pocs)
 
 ## List of active threads
 
@@ -143,8 +143,7 @@ SQL ADVANCED:
 4.	CTE
 5.	Recursion
 6.	Constraints
-7.  Co related and non-corelated queries
-
+7.	Co related and non-corelated queries
 
 Python- Basic, intermediate 
 	Python 101
@@ -165,7 +164,6 @@ Python – Advanced
 	Graphs in Python
 	Numerical Analyses using NumPy
 	Data Analyses using PANDAS+Matplotlib (EDA+Vizualization+Modelling)
-
 
 R Basics 
 1.1)	 Downloading & Installing R
@@ -260,3 +258,10 @@ Completed reading
 - Visualization tools - Tableau, D3, PowerBI
 - Check status of job application - Airtel
 - Revise Aptitude : Logical reasoning, Verbal ability, Quantitative
+
+## List of PoCs
+
+- [1 - Flipkart, etc.](https://www.linkedin.com/in/rafiqa-khan-deshmukh-045a69152?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8JAZuqfLRwunyvxUNMocSw%3D%3D)
+- [2 - Bridge I2I, etc.](https://www.linkedin.com/in/nagasreemv?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8JAZuqfLRwunyvxUNMocSw%3D%3D)
+- [3 - ](https://www.linkedin.com/in/ankita-borkar-257b87141?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8JAZuqfLRwunyvxUNMocSw%3D%3D)
+- [4 - ](https://www.linkedin.com/in/jincy-223245165?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8JAZuqfLRwunyvxUNMocSw%3D%3D)
